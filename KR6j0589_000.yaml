@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0589/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說花積樓閣陀羅尼經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T21/T21n1359.xml
+    old_id: T21n1359
+hash: sha256:030bffa792d8a6ce18cd6946a728e80698b3b2d4f5f387b63a1dd2e74a34b174
